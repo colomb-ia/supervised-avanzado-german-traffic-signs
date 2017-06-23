@@ -1,7 +1,7 @@
 # Ranking 
 | Score | Usuario |	Algoritmo | Link Repo |
 | - | - | - | - |
-| 0.958000063896 | [cgarciae](https://github.com/cgarciae) | SqueezeNet | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/fire-1) |
+| 0.969833729216 | [cgarciae](https://github.com/cgarciae) | SqueezeNet | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/fire-1) |
 | 0.957878053188 | [cgarciae](https://github.com/cgarciae) | Conv Net Mediana Batch Norm 2 | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/red-mediana-plus2) |
 | 0.949802058591| [srcolinas](https://github.com/srcolinas) | CNN Mediana | [repo](https://github.com/srcolinas/supervised-avanzado-german-traffic-signs/tree/solution1)|
 | 0.948614895344 | [cgarciae](https://github.com/cgarciae) | Conv Net Mediana Batch Norm | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/red-mediana-plus) |
