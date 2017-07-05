@@ -1,6 +1,7 @@
 # Ranking 
 | Score | Usuario |	Algoritmo | Link Repo |
 | - | - | - | - |
+| 0.982818685669 | [cgarciae](https://github.com/cgarciae) | DenseNet-BC(k = 12) | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/dense-net-elu-2) |
 | 0.980285035629 | [cgarciae](https://github.com/cgarciae) | Residual SqueezeNet + BatchNorm | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/batch-norm-squeeze-net) |
 | 0.975534441805 | [cgarciae](https://github.com/cgarciae) | Residual SqueezeNet | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/res-squeeze-net) |
 | 0.957878053188 | [cgarciae](https://github.com/cgarciae) | Conv Net Mediana Batch Norm 2 | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/red-mediana-plus2) |
