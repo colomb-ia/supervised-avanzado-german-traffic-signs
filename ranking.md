@@ -4,7 +4,9 @@
 | 0.982818685669 | [cgarciae](https://github.com/cgarciae) | DenseNet-BC(k = 12) | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/dense-net-elu-2) |
 | 0.980285035629 | [cgarciae](https://github.com/cgarciae) | Residual SqueezeNet + BatchNorm | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/batch-norm-squeeze-net) |
 | 0.975534441805 | [cgarciae](https://github.com/cgarciae) | Residual SqueezeNet | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/res-squeeze-net) |
+| 0.962708353996| [charlielito](https://github.com/charlielito) | CNN Mediana maxpool | [repo](https://github.com/charlielito/supervised-avanzado-german-traffic-signs/tree/red-mediana-maxpool) |
 | 0.957878053188 | [cgarciae](https://github.com/cgarciae) | Conv Net Mediana Batch Norm 2 | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/red-mediana-plus2) |
+| 0.956374168396 | [charlielito](https://github.com/charlielito) | ConvNet Pequeña profunda maxpool | [repo](https://github.com/charlielito/supervised-avanzado-german-traffic-signs/tree/red-pequena-prof-maxpool) |
 | 0.955423594616 | [cgarciae](https://github.com/cgarciae) | SqueezeNet | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/fire-1) |
 | 0.949802058591| [srcolinas](https://github.com/srcolinas) | CNN Mediana | [repo](https://github.com/srcolinas/supervised-avanzado-german-traffic-signs/tree/solution1)|
 | 0.948614895344 | [cgarciae](https://github.com/cgarciae) | Conv Net Mediana Batch Norm | [repo](https://github.com/cgarciae/supervised-avanzado-german-traffic-signs/tree/feature/red-mediana-plus) |
